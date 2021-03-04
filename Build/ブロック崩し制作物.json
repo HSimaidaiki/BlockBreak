@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "block break",
+"dataUrl": "ブロック崩し制作物.data.unityweb",
+"wasmCodeUrl": "ブロック崩し制作物.wasm.code.unityweb",
+"wasmFrameworkUrl": "ブロック崩し制作物.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
